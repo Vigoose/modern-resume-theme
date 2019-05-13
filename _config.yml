@@ -24,8 +24,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi My name is Edward and I am a IT Project Engineer currently live in Sunnyvale, CA, below are some highlights of myself:
    - Two Master degrees in Information Systems with Five year IT-specific projects experience. 
    - Software Engineer in Full Stack development with strong problem-solving ability and business analysis skills.  
-  
-  
+    
+    
+      
   I love <mark>new challenge</mark> and <mark>Chinese food</mark>.
 
 # Projects Section
