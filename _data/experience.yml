@@ -1,9 +1,14 @@
 # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+- company: Sinopec USA Inc.
+  link: global.epec.com
+  job_title: IT Project Engineer
+  dates: Date Range (eg. June 2014 - April 2019)
   quote: >
-   Short description of the company (optional)
+   "EPEC" design, system integration and initiation. EPEC.COM | 
+    As China's one of the largest oil and gas Company with over 30 yearsprofessional procurement experience and supply chain resources, Sinopectried to build and share a trading e-commerce platform establishing theconnection between US and China.Participating the entire development life cycle of EPEC global website, main responsible includes:
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Worked as a technical role to cooperate and implement the industrial e-commerce project and took responsibility of technologies implementation andbusiness requirement design.
+    Designed and implemented workflows to integrate legacy systems (SAP/ERP, Material Management System and Global Supplier ManagementSystem) into a distributed e-commerce web application which supports EPECbusiness.
+    Optimized the website performance by adding CDN and browser cache andallocating servers in different locales.
+    Performed unit testing and function testing in Java which covered over 80%code base. – Unit Testing, Function Testing
+    
