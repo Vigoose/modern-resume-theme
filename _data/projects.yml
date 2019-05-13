@@ -1,8 +1,11 @@
 # Project template
-- name: Project name
+- name: Sentimental Analysis of Tweets
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Built a customized sentiment dictionary to analyze positive/negative attitudes for Toyota Camry model in one-year Tweets hash-tagged with ‘Toyota’ and ‘Camry’. |
+    Pre-processed about 500G raw data by word counting utilizing Hadoop MapReduce and loaded processed data about 10G into AWS S3. – Hadoop MapReduce, AWS S3 |
+    Captured sentimental tweets from Twitter using Twitter API and Topsy API. – Twitter API, Topsy API |
+    Utilized AFINN word list for sentiment analysis and found out that ‘fuel’ is the most important weight to gain positive attitudes for Toyota Camry and it does a good job on fuel saving compared to other car brands. |
