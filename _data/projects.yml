@@ -10,7 +10,6 @@
     - Extracted and loaded survey/feedback data into MongoDB to generate analysis report with charts and implemented data interaction with Webhook to awaits user’s feedback sending through click functions. **– MongoDB, Mongoose, Webhook**
 
 - name: Mobile App Development – Staff Management System
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: https://github.com/Vigoose/ReactNativeManager
   quote: >
     Designed and built a mobile app using React Native which provides multiple features such as adding/editing/firing people for employers in Both iOS and Android platforms. **– React Native**
@@ -20,8 +19,6 @@
     - Optimized user experiences using firebase snapshot to keep user in touch with newest data and spinning/Modal to implement waiting states.
 
 - name: Sentimental Analysis of Tweets
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   description: | # this will include new lines to allow paragraphs
     - Built a customized sentiment dictionary to analyze positive/negative attitudes for Toyota Camry model in one-year Tweets hash-tagged with ‘Toyota’ and ‘Camry’.
     - Pre-processed about 500G raw data by word counting utilizing Hadoop MapReduce and loaded processed data about 10G into AWS S3. **– Hadoop MapReduce, AWS S3**
