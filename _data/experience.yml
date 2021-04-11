@@ -1,4 +1,15 @@
 # Experience template
+- company: Oracle America
+  link: https://www.oracle.com/index.html
+  job_title: Software Engineer
+  dates: Jan 2020 - Now
+  description: | # this will include new lines to allow paragraphs
+    - Design and implement new features for Oracle’s core Private Cloud Appliance (PCA) functionality
+    - Implement, improve, and deploy component-level microservice via Kubernetes cluster, communicate upgrade information L1 API through RabbitMQ to user interface
+    - Integrate Oracle Sauron with visual log UI extracted from elastic search and Prometheus of deployed health check pods on Kubernetes Cluster
+    - Perform root cause analysis for bugs seen in QE and at customer installations
+
+
 - company: Sinopec USA Inc
   link: global.epec.com
   job_title: IT Project Engineer
