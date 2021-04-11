@@ -21,19 +21,18 @@ linkedin_username: yuanyexia
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/fullsizeoil_profile_photo2-426-edit-edit_002.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi My name is Edward and I am a IT Project Engineer currently live in Sunnyvale, CA, below are some highlights of myself:
-   - Two Master degrees in Information Systems with Five year IT-specific projects experience. 
+  Hi My name is Edward and I am a Software Engineer currently live in Redwood City, CA, below are some highlights of myself:
+   - Two Master degrees in Information Systems with Six year IT-specific projects experience. 
    - Software Engineer in Full Stack development with strong problem-solving ability and business analysis skills.          
     
-    
       
-  I like <mark>New Challenge</mark> also a <mark>Beef Lover</mark>.
-
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+  I like <mark>Challenging Work</mark> also a <mark>Beef Lover</mark>.
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
